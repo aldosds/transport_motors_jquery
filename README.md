@@ -17,17 +17,17 @@ Link: https://transport-motors-jquery.vercel.app/
 <img src="./images/readme/img02.png">
 </p>
 
-## Seção Em Destaque e Promoção
+## Seção: Em Destaque e Promoção
 
 - Ao clicar em <b>Tenho interesse</b>, a pagina rola até o formulário, e o nome do veiculo de interesse é exibido no mesmo.
 
-**_Seção: Em destaque._<br>**
+**_Em destaque._<br>**
 
 <P align="center">
 <img src="./images/readme/img03.png">
 </p>
 
-**_Seção: Promoções._<br>**
+**_Promoções._<br>**
 
 <P align="center">
 <img src="./images/readme/img04.png">
